@@ -426,7 +426,7 @@
             "State": "",
             "Year": 2007,
             "Country": "Guam",
-            "marker-color": "red"
+            "marker-color": "#ff0000"
         },
         "type": "Feature"
     }, {
