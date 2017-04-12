@@ -1,5 +1,4 @@
-{
-    "type": "FeatureCollection",
+{    "type": "FeatureCollection",
     "features": [{
         "geometry": {
             "type": "Point",
@@ -781,6 +780,6 @@
             "Country": "Vietnam"
         },
         "type": "Feature"
-    }, 
-    }]
+    },
+    ]
 }
