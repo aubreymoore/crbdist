@@ -1,0 +1,785 @@
+{
+    "features": [{
+        "geometry": {
+            "type": "Point",
+            "coordinates": [90.2419998721, 23.8456776713]
+        },
+        "properties": {
+            "Notes": "",
+            "Source": "Catley",
+            "State": "",
+            "Year": 1800,
+            "Country": "Bangladesh"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [109.7400477837, 19.1974353862]
+        },
+        "properties": {
+            "Notes": "",
+            "Source": "Catley",
+            "State": "Hainan",
+            "Year": 1800,
+            "Country": "China"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.0033333514, 15.1143997393]
+        },
+        "properties": {
+            "Notes": "",
+            "Source": "Catley",
+            "State": "",
+            "Year": 1800,
+            "Country": "Thailand"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [80.7031628582, 7.6159146067]
+        },
+        "properties": {
+            "Notes": "",
+            "Source": "Catley",
+            "State": "",
+            "Year": 1800,
+            "Country": "Sri Lanka"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [120.9498753298, 23.7529851134]
+        },
+        "properties": {
+            "Notes": "Formosa in Catley",
+            "Source": "Catley",
+            "State": "",
+            "Year": 1800,
+            "Country": "Taiwan"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [109.6988686366, 3.7923927886]
+        },
+        "properties": {
+            "Notes": "Malay Peninsula in Catley",
+            "Source": "Catley",
+            "State": "",
+            "Year": 1800,
+            "Country": "Malaysia"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [122.8744842572, 11.7630150663]
+        },
+        "properties": {
+            "Notes": "",
+            "Source": "Catley",
+            "State": "",
+            "Year": 1800,
+            "Country": "Philippines"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [96.4892894763, 21.1676699887]
+        },
+        "properties": {
+            "Notes": "Burma in Catley",
+            "Source": "Catley",
+            "State": "",
+            "Year": 1800,
+            "Country": "Myanmar"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [69.341343274, 29.9484969425]
+        },
+        "properties": {
+            "Notes": "West Pakistan in Catley",
+            "Source": "Catley",
+            "State": "",
+            "Year": 1800,
+            "Country": "Pakistan"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [114.1314468562, 22.3846368801]
+        },
+        "properties": {
+            "Notes": "",
+            "Source": "Catley",
+            "State": "",
+            "Year": 1800,
+            "Country": "Hong Kong"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [120.177835264, -3.661945786]
+        },
+        "properties": {
+            "Notes": "Celebes in Catley",
+            "Source": "Catley",
+            "State": "Sulawesi",
+            "Year": 1800,
+            "Country": "Indonesia"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [129.112, -3.098]
+        },
+        "properties": {
+            "Notes": "Ceram in Catley",
+            "Source": "Catley",
+            "State": "Seram",
+            "Year": 1800,
+            "Country": "Indonesia"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [128.1, -3.62]
+        },
+        "properties": {
+            "Notes": "Aboina Island in Catley",
+            "Source": "Catley",
+            "State": "Ambon Island",
+            "Year": 1800,
+            "Country": "Indonesia"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [171.75, -13.9166666667]
+        },
+        "properties": {
+            "Notes": "",
+            "Source": "Catley",
+            "State": "Upolu",
+            "Year": 1909,
+            "Country": "Samoa"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [172.4166666667, -13.5833333333]
+        },
+        "properties": {
+            "Notes": "",
+            "Source": "Catley",
+            "State": "Savaii",
+            "Year": 1912,
+            "Country": "Samoa"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [172.7, -14.295]
+        },
+        "properties": {
+            "Notes": "",
+            "Source": "Catley",
+            "State": "Tutuila",
+            "Year": 1912,
+            "Country": "American Samoa"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [186.222249, -15.954282]
+        },
+        "properties": {
+            "Notes": "Keppel Island",
+            "Source": "Catley",
+            "State": "Niuatoputapu",
+            "Year": 1921,
+            "Country": "Tonga"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [183.8, -13.266667]
+        },
+        "properties": {
+            "Notes": "",
+            "Source": "Catley",
+            "State": "",
+            "Year": 1931,
+            "Country": "Wallis Island"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [134.58252, 7.51498]
+        },
+        "properties": {
+            "Notes": "",
+            "Source": "Catley",
+            "State": "",
+            "Year": 1942,
+            "Country": "Palau"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [150.767921, -5.74659]
+        },
+        "properties": {
+            "Notes": "",
+            "Source": "Catley",
+            "State": "",
+            "Year": 1942,
+            "Country": "New Britain"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [133.174716, -1.336115]
+        },
+        "properties": {
+            "Notes": "date approx.; West NewGuinea in Catley",
+            "Source": "Catley",
+            "State": "",
+            "Year": 1942,
+            "Country": "West Papua"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [186.009702, -18.622756]
+        },
+        "properties": {
+            "Notes": "",
+            "Source": "Catley",
+            "State": "Vavau",
+            "Year": 1952,
+            "Country": "Tonga"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [152, -3.33]
+        },
+        "properties": {
+            "Notes": "",
+            "Source": "Catley",
+            "State": "",
+            "Year": 1952,
+            "Country": "New Ireland"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [178.011847, -17.848319]
+        },
+        "properties": {
+            "Notes": "",
+            "Source": "Catley",
+            "State": "Viiti Levu",
+            "Year": 1952,
+            "Country": "Fiji"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [147.635405, -2.080667]
+        },
+        "properties": {
+            "Notes": "",
+            "Source": "Catley",
+            "State": "Pak Island",
+            "Year": 1960,
+            "Country": "New Guinea"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [184.748452, -21.146597]
+        },
+        "properties": {
+            "Notes": "",
+            "Source": "Catley",
+            "State": "Tongatapu",
+            "Year": 1961,
+            "Country": "Tonga"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [188.1516, -9.2002]
+        },
+        "properties": {
+            "Notes": "",
+            "Source": "Catley",
+            "State": "",
+            "Year": 1963,
+            "Country": "Tokelau Islands"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [72.422856, -7.319501]
+        },
+        "properties": {
+            "Notes": "date approx.",
+            "Source": "Catley",
+            "State": "",
+            "Year": 1918,
+            "Country": "Diego Garcia"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [96.841739, -12.170874]
+        },
+        "properties": {
+            "Notes": "",
+            "Source": "Catley",
+            "State": "",
+            "Year": 1940,
+            "Country": "Cocos Islands"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [57.552152, -20.348404]
+        },
+        "properties": {
+            "Notes": "",
+            "Source": "Catley",
+            "State": "",
+            "Year": 1962,
+            "Country": "Maritius"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [159.95, -9.4333333333]
+        },
+        "properties": {
+            "Notes": "",
+            "Source": "Moore",
+            "State": "Guadalcanal",
+            "Year": 2015,
+            "Country": "Solomon Islands"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [202.070953, 21.316346]
+        },
+        "properties": {
+            "Notes": "",
+            "Source": "Moore",
+            "State": "Oahu",
+            "Year": 2013,
+            "Country": "Hawaii"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [144.771876, 13.450551]
+        },
+        "properties": {
+            "Notes": "",
+            "Source": "Moore",
+            "State": "",
+            "Year": 2007,
+            "Country": "Guam",
+            "marker-color": "#ff0000"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [79.739987, 15.9129]
+        },
+        "properties": {
+            "Notes": "",
+            "Source": "Pallipparambil",
+            "State": "Andhra Pradesh",
+            "Year": 1800,
+            "Country": "India"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [94.727753, 28.217999]
+        },
+        "properties": {
+            "Notes": "",
+            "Source": "Pallipparambil",
+            "State": "Arunachal Pradesh",
+            "Year": 1800,
+            "Country": "India"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [77.17339, 31.104829]
+        },
+        "properties": {
+            "Notes": "",
+            "Source": "Pallipparambil",
+            "State": "Himachal Pradesh",
+            "Year": 1800,
+            "Country": "India"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [78.656894, 22.973423]
+        },
+        "properties": {
+            "Notes": "",
+            "Source": "Pallipparambil",
+            "State": "Madhya Pradesh",
+            "Year": 1800,
+            "Country": "India"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [80.098187, 27.570589]
+        },
+        "properties": {
+            "Notes": "",
+            "Source": "Pallipparambil",
+            "State": "Uttar Pradesh",
+            "Year": 1800,
+            "Country": "India"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [76.271083, 10.850516]
+        },
+        "properties": {
+            "Notes": "",
+            "Source": "Pallipparambil",
+            "State": "Kerala",
+            "Year": 1800,
+            "Country": "India"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [87.854975, 22.986757]
+        },
+        "properties": {
+            "Notes": "",
+            "Source": "Pallipparambil",
+            "State": "West Bengal",
+            "Year": 1800,
+            "Country": "India"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [78.656894, 22.973423]
+        },
+        "properties": {
+            "Notes": "",
+            "Source": "Pallipparambil",
+            "State": "Madhya Pradesh",
+            "Year": 1800,
+            "Country": "India"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [93.906269, 24.663717]
+        },
+        "properties": {
+            "Notes": "",
+            "Source": "Pallipparambil",
+            "State": "Manipur",
+            "Year": 1800,
+            "Country": "India"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [91.988153, 23.940848]
+        },
+        "properties": {
+            "Notes": "",
+            "Source": "Pallipparambil",
+            "State": "Tripura",
+            "Year": 1800,
+            "Country": "India"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [75.713888, 15.317277]
+        },
+        "properties": {
+            "Notes": "",
+            "Source": "Pallipparambil",
+            "State": "Karnataka",
+            "Year": 1800,
+            "Country": "India"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [75.713888, 19.75148]
+        },
+        "properties": {
+            "Notes": "",
+            "Source": "Pallipparambil",
+            "State": "Maharashtra",
+            "Year": 1800,
+            "Country": "India"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [92.937574, 26.200604]
+        },
+        "properties": {
+            "Notes": "",
+            "Source": "Pallipparambil",
+            "State": "Assam",
+            "Year": 1800,
+            "Country": "India"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [74.123996, 15.299326]
+        },
+        "properties": {
+            "Notes": "",
+            "Source": "Pallipparambil",
+            "State": "Goa",
+            "Year": 1800,
+            "Country": "India"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [71.19238, 22.258652]
+        },
+        "properties": {
+            "Notes": "",
+            "Source": "Pallipparambil",
+            "State": "Gujarat",
+            "Year": 1800,
+            "Country": "India"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [78.656894, 11.127123]
+        },
+        "properties": {
+            "Notes": "",
+            "Source": "Pallipparambil",
+            "State": "Tamil Nadu",
+            "Year": 1800,
+            "Country": "India"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [85.098524, 20.951666]
+        },
+        "properties": {
+            "Notes": "",
+            "Source": "Pallipparambil",
+            "State": "Orissa",
+            "Year": 1800,
+            "Country": "India"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [74.217933, 27.023804]
+        },
+        "properties": {
+            "Notes": "",
+            "Source": "Pallipparambil",
+            "State": "Rajasthan",
+            "Year": 1800,
+            "Country": "India"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [94.562443, 26.158435]
+        },
+        "properties": {
+            "Notes": "",
+            "Source": "Pallipparambil",
+            "State": "Nagaland",
+            "Year": 1800,
+            "Country": "India"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [85.313119, 25.096074]
+        },
+        "properties": {
+            "Notes": "",
+            "Source": "Pallipparambil",
+            "State": "Bihar",
+            "Year": 1800,
+            "Country": "India"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [85.279935, 23.610181]
+        },
+        "properties": {
+            "Notes": "",
+            "Source": "Pallipparambil",
+            "State": "Jharkhand",
+            "Year": 1800,
+            "Country": "India"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [147.1802671, -9.4438004]
+        },
+        "properties": {
+            "Notes": "",
+            "Source": "Moore",
+            "State": "Port Moresby",
+            "Year": 2015,
+            "Country": "Papua New Guinea"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [55.536384, -21.115141]
+        },
+        "properties": {
+            "Notes": "",
+            "Source": "ISSG",
+            "State": "",
+            "Year": 1978,
+            "Country": "Reunion"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [102.495496, 19.85627]
+        },
+        "properties": {
+            "Notes": "",
+            "Source": "Nishida & Evenhuis, 2000\ufffd",
+            "State": "",
+            "Year": 1800,
+            "Country": "Laos"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [45.166244, -12.8275]
+        },
+        "properties": {
+            "Notes": "no arrival date",
+            "Source": "ISSG",
+            "State": "",
+            "Year": "",
+            "Country": "Mayotte"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [104.990963, 12.565679]
+        },
+        "properties": {
+            "Notes": "",
+            "Source": "Nishida & Evenhuis, 2000\ufffd",
+            "State": "",
+            "Year": 1800,
+            "Country": "Cambodia"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [108.277199, 14.058324]
+        },
+        "properties": {
+            "Notes": "",
+            "Source": "ISSG",
+            "State": "",
+            "Year": 1800,
+            "Country": "Vietnam"
+        },
+        "type": "Feature"
+    }],
+    "type": "FeatureCollection"
+}
