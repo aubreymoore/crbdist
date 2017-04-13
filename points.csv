@@ -5,7 +5,7 @@ Notes,Source,State,Year,Country,marker-color,marker-size,marker-symbol,lon,lat
 ,Catley,,1800,Sri Lanka,#32cd32,,,80.7031628582,7.6159146067
 Formosa in Catley,Catley,,1800,Taiwan,#32cd32,medium,circle-stroked,120.9498753298,23.7529851134
 Malay Peninsula in Catley,Catley,,1800,Malaysia,#32cd32,,,109.6988686366,3.7923927886
-,Catley,,1800,Philippines,#32cd32,medium,circle-stroked,122.8744842572,11.7630150663
+,Catley,,1800,Philippines,#32cd32,medium,,122.8744842572,11.7630150663
 Burma in Catley,Catley,,1800,Myanmar,#32cd32,,,96.4892894763,21.1676699887
 West Pakistan in Catley,Catley,,1800,Pakistan,#32cd32,,,69.341343274,29.9484969425
 ,Catley,,1800,Hong Kong,#32cd32,,,114.1314468562,22.3846368801
@@ -17,7 +17,7 @@ Aboina Island in Catley,Catley,Ambon Island,1800,Indonesia,#32cd32,,,128.1,-3.62
 ,Catley,Tutuila,1912,American Samoa,#FFA500,,,172.7,-14.295
 Keppel Island,Catley,Niuatoputapu,1921,Tonga,#FFA500,,,186.222249,-15.954282
 ,Catley,,1931,Wallis Island,#FFA500,,,183.8,-13.266667
-,Catley,,1942,Palau,#FFA500,,,134.58252,7.51498
+,Catley,,1942,Palau,#ffa500,,circle-stroked,134.58252,7.51498
 ,Catley,,1942,New Britain,#FFA500,,,150.767921,-5.74659
 date approx.; West NewGuinea in Catley,Catley,,1942,West Papua,#FFA500,,,133.174716,-1.336115
 ,Catley,Vavau,1952,Tonga,#FFA500,,,186.009702,-18.622756
@@ -29,9 +29,9 @@ date approx.; West NewGuinea in Catley,Catley,,1942,West Papua,#FFA500,,,133.174
 date approx.,Catley,,1918,Diego Garcia,#FFA500,,,72.422856,-7.319501
 ,Catley,,1940,Cocos Islands,#FFA500,,,96.841739,-12.170874
 ,Catley,,1962,Maritius,#FFA500,,,57.552152,-20.348404
-,Moore,Guadalcanal,2015,Solomon Islands,#ff0000,,circle-stroked,159.95,-9.4333333333
-,Moore,Oahu,2013,Hawaii,#ff0000,,circle-stroked,202.070953,21.316346
-,Moore,,2007,Guam,#ff0000,,circle-stroked,144.771876,13.450551
+,Moore,Guadalcanal,2015,Solomon Islands,#ff0000,,circle,159.95,-9.4333333333
+,Moore,Oahu,2013,Hawaii,#ff0000,,circle,202.070953,21.316346
+,Moore,,2007,Guam,#ff0000,,circle,144.771876,13.450551
 ,Pallipparambil,Andhra Pradesh,1800,India,#32cd32,,,79.739987,15.9129
 ,Pallipparambil,Arunachal Pradesh,1800,India,#32cd32,,,94.727753,28.217999
 ,Pallipparambil,Himachal Pradesh,1800,India,#32cd32,,,77.17339,31.104829
@@ -53,9 +53,10 @@ date approx.,Catley,,1918,Diego Garcia,#FFA500,,,72.422856,-7.319501
 ,Pallipparambil,Nagaland,1800,India,#32cd32,,,94.562443,26.158435
 ,Pallipparambil,Bihar,1800,India,#32cd32,,,85.313119,25.096074
 ,Pallipparambil,Jharkhand,1800,India,#32cd32,,,85.279935,23.610181
-,Moore,Port Moresby,2015,Papua New Guinea,#ff0000,,circle-stroked,147.1802671,-9.4438004
+,Moore,Port Moresby,2015,Papua New Guinea,#ff0000,,circle,147.1802671,-9.4438004
 ,ISSG,,1978,Reunion,#FFA500,,,55.536384,-21.115141
 ,"Nishida & Evenhuis, 2000�",,1800,Laos,#32cd32,,,102.495496,19.85627
 no arrival date,ISSG,,1978?,Mayotte,#FFA500,,,45.166244,-12.8275
 ,"Nishida & Evenhuis, 2000�",,1800,Cambodia,#32cd32,,,104.990963,12.565679
 ,ISSG,,1800,Vietnam,#32cd32,,,108.277199,14.058324
+,,,,,#32cd32,medium,circle-stroked,123.27072143554688,9.304083043309173
