@@ -1,4 +1,5 @@
 # crbdist
+# Visualizing the invasion history of the coconut rhinoceros beetle
 
 This project was inspired by Steve Bennet's blog post entitled [Super lightweight map websites with Github](https://stevebennett.me/2014/02/13/super-lightweight-map-websites/).
 
