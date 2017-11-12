@@ -19,7 +19,7 @@ Keppel Island,Catley,Niuatoputapu,1921,Tonga,#FFA500,,,186.222249,-15.954282
 ,Catley,,1931,Wallis Island,#FFA500,,,183.8,-13.266667
 ,Catley,,1942,Palau,#ffa500,,circle-stroked,134.58252,7.51498
 ,Catley,,1942,New Britain,#FFA500,,,150.767921,-5.74659
-date approx.; West NewGuinea in Catley,Catley,,1942,West Papua,#FFA500,,,133.174716,-1.336115
+date approx; West New Guinea in Catley,Catley,,1942,West Papua,#FFA500,,,133.174716,-1.336115
 ,Catley,Vavau,1952,Tonga,#FFA500,,,186.009702,-18.622756
 ,Catley,,1952,New Ireland,#FFA500,,,152,-3.33
 ,Catley,Viiti Levu,1952,Fiji,#FFA500,,,178.011847,-17.848319
@@ -31,7 +31,7 @@ date approx.,Catley,,1918,Diego Garcia,#FFA500,,,72.422856,-7.319501
 ,Catley,,1962,Maritius,#FFA500,,,57.552152,-20.348404
 ,Moore,Guadalcanal,2015,Solomon Islands,#ff0000,,circle,159.95,-9.4333333333
 ,Moore,Oahu,2013,Hawaii,#ff0000,,circle,202.070953,21.316346
-,Moore,,2007,Guam,#ff0000,,circle,144.771876,13.450551
+,Moore,Guam,2007,Guam,#ff0000,,circle,144.771876,13.450551
 ,Pallipparambil,Andhra Pradesh,1800,India,#32cd32,,,79.739987,15.9129
 ,Pallipparambil,Arunachal Pradesh,1800,India,#32cd32,,,94.727753,28.217999
 ,Pallipparambil,Himachal Pradesh,1800,India,#32cd32,,,77.17339,31.104829
@@ -55,9 +55,22 @@ date approx.,Catley,,1918,Diego Garcia,#FFA500,,,72.422856,-7.319501
 ,Pallipparambil,Jharkhand,1800,India,#32cd32,,,85.279935,23.610181
 "CRB-G detected in some, but not all specimens Marshall et al. 2017",Moore,Port Moresby,2015,Papua New Guinea,#ff0000,,circle-stroked,147.1802671,-9.4438004
 ,ISSG,,1978,Reunion,#FFA500,,,55.536384,-21.115141
-,"Nishida & Evenhuis, 2000�",,1800,Laos,#32cd32,,,102.495496,19.85627
-no arrival date,ISSG,,1978?,Mayotte,#FFA500,,,45.166244,-12.8275
-,"Nishida & Evenhuis, 2000�",,1800,Cambodia,#32cd32,,,104.990963,12.565679
+,"Nishida & Evenhuis, 2000",,1800,Laos,#32cd32,,,102.495496,19.85627
+no arrival date,ISSG,,1978,Mayotte,#FFA500,,,45.166244,-12.8275
+,"Nishida & Evenhuis, 2000",,1800,Cambodia,#32cd32,,,104.990963,12.565679
 ,ISSG,,1800,Vietnam,#32cd32,,,108.277199,14.058324
-,Moore,Negros Island,1800,Philippines,#32cd32,medium,circle-stroked,123.27072143554688,9.304083043309173
-no arrival date,Moore,Okinawa,,Japan,#ffa500,medium,,128.0181884765625,26.598351182358293
+all specimens CRB-G ???,Moore,Negros Island,1800,Philippines,#32cd32,medium,circle-stroked,123.2707214355,9.3040830433
+data from Madoka,?,Okinawa,1975,Japan,#ffa500,medium,,127.9455,26.5014
+data from Madoka,?,Yuron-jima,1988,Japan,#ffa501,,,128.4313,27.0442
+data from Madoka,?,Okino-erabu-shima,1987,Japan,#ffa502,,,128.5855,27.3769
+data from Madoka,?,Tokuno-shima,1991,Japan,#ffa503,,,128.9505,27.7675
+data from Madoka,?,Amami,1991,Japan,#ffa504,,,129.4276,28.3261
+data from Madoka,?,Kitadaito,1960,Japan,#ffa505,,,131.3068,25.9445
+data from Madoka,?,Minamidaito,1957,Japan,#ffa506,,,131.2439,25.8446
+data from Madoka,?,Yonaguni-shima,1972,Japan,#ffa507,,,122.9867,24.4534
+data from Madoka,?,Iriomote-jima,1967,Japan,#ffa508,,,123.8216,24.339
+data from Madoka,?,Ishigaki-shima,1921,Japan,#ffa509,,,124.181,24.4151
+data from Madoka,?,Miyako-jima,1983,Japan,#ffa510,,,125.3184,24.771
+https://www.inaturalist.org/observations/8292435,Moore,Rota,2017,CNMI,#ff0000,,circle,145.131068,14.132547
+,Moore ,Savo Island,2017,Solomon Islands,#ff0000,,circle,159.8147,-9.1328
+,Moore,Malaita Island,2017,Solomon Islands,#ff0000,,circle,160.9868,-9.0113
