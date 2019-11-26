@@ -20,5 +20,24 @@
         ]
       }
     },
+  {
+      "type": "Feature",
+      "properties": {
+        "Notes": "",
+        "Source": "Moore",
+        "State": "Guam",
+        "Year": 2007,
+        "Country": "Guam",
+        "marker-color": "#ff0000",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.771876,
+          14.450551
+        ]
+      }
+    }, 
   ]
 }
