@@ -1,0 +1,489 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Japan",
+        "locality": "Sonai, Yonaguni Island",
+        "eventDate": "1978-03-08",
+        "recordedBy": "K.G. and M.O.",
+        "occurrenceRemarks": "ex compost and chaff; palm damage observed",
+        "bibliographicCitation": "Oshiro and Okushima 1980",
+        "georeferencedBy": "Aubrey Moore",
+        "georeferencedDate": "2019-12-01",
+        "georeferencedSources": "Google Maps",
+        "marker-color": "#ff0000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.00489,
+          24.469087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Japan",
+        "locality": "Kubura,Yonaguni Island",
+        "eventDate": "1980-02-27",
+        "recordedBy": "Y.O.",
+        "occurrenceRemarks": "ex compost and chaff; palm damage observed",
+        "bibliographicCitation": "Oshiro and Okushima 1980",
+        "georeferencedBy": "Aubrey Moore",
+        "georeferencedDate": "2019-12-01",
+        "georeferencedSources": "Google Maps",
+        "marker-color": "#ff0000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.94379,
+          24.45134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Japan",
+        "locality": "Kohama, Kohama Island",
+        "eventDate": "1978-02-14",
+        "recordedBy": "Y.O.",
+        "occurrenceRemarks": "ex compost; palm damage observed",
+        "bibliographicCitation": "Oshiro and Okushima 1980",
+        "georeferencedBy": "Aubrey Moore",
+        "georeferencedDate": "2019-12-01",
+        "georeferencedSources": "Google Maps",
+        "marker-color": "#ff0000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.98045,
+          24.345721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Japan",
+        "locality": "Hateruma, Hateruma Island",
+        "eventDate": "1979-03-08",
+        "recordedBy": "Y.O.",
+        "occurrenceRemarks": "ex compost and bagasse; palm damage observed",
+        "bibliographicCitation": "Oshiro and Okushima 1980",
+        "georeferencedBy": "Aubrey Moore",
+        "georeferencedDate": "2019-12-01",
+        "georeferencedSources": "Google Maps",
+        "marker-color": "#ff0000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.776151,
+          24.061402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Japan",
+        "locality": "Hateruma, Hateruma Island",
+        "eventDate": "1980-01-16",
+        "recordedBy": "M.K.",
+        "occurrenceRemarks": "ex compost and bagasse; palm damage observed",
+        "bibliographicCitation": "Oshiro and Okushima 1980",
+        "georeferencedBy": "Aubrey Moore",
+        "georeferencedDate": "2019-12-01",
+        "georeferencedSources": "Google Maps",
+        "marker-color": "#ff0000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.776151,
+          24.061402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Japan",
+        "locality": "Miyara, Ishigaki Island",
+        "eventDate": "1977-08-09",
+        "recordedBy": "Y.O.",
+        "occurrenceRemarks": "ex compost and chaff; palm damage observed",
+        "bibliographicCitation": "Oshiro and Okushima 1980",
+        "georeferencedBy": "Aubrey Moore",
+        "georeferencedDate": "2019-12-01",
+        "georeferencedSources": "Google Maps",
+        "marker-color": "#ff0000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.224753,
+          24.419668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Japan",
+        "locality": "Akaishi, Ishigaki Island",
+        "eventDate": "1977-09-24",
+        "recordedBy": "R.U. and M.O.",
+        "occurrenceRemarks": "ex compost and chaff; palm damage observed",
+        "bibliographicCitation": "Oshiro and Okushima 1980",
+        "georeferencedBy": "Aubrey Moore",
+        "georeferencedDate": "2019-12-01",
+        "georeferencedSources": "Google Maps",
+        "marker-color": "#ff0000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.301315,
+          24.553804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Japan",
+        "locality": "Tomino, Ishigaki Island",
+        "eventDate": "1977-09-24",
+        "recordedBy": "R.U. and M.O.",
+        "occurrenceRemarks": "ex compost and chaff; palm damage observed",
+        "bibliographicCitation": "Oshiro and Okushima 1980",
+        "georeferencedBy": "Aubrey Moore",
+        "georeferencedDate": "2019-12-01",
+        "georeferencedSources": "Google Maps",
+        "marker-color": "#ff0000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.203553,
+          24.453697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Japan",
+        "locality": "Yoshihara, Ishigaki Island",
+        "eventDate": "1977-09-25",
+        "recordedBy": "R.U. and M.O.",
+        "occurrenceRemarks": "ex compost and chaff; palm damage observed",
+        "bibliographicCitation": "Oshiro and Okushima 1980",
+        "georeferencedBy": "Aubrey Moore",
+        "georeferencedDate": "2019-12-01",
+        "georeferencedSources": "Google Maps",
+        "marker-color": "#ff0000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.157935,
+          24.448249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Japan",
+        "locality": "Nazura, Ishigaki Island",
+        "eventDate": "1977-09-25",
+        "recordedBy": "R.U. and M.O.",
+        "occurrenceRemarks": "ex compost and bagasse; palm damage observed",
+        "bibliographicCitation": "Oshiro and Okushima 1980",
+        "georeferencedBy": "Aubrey Moore",
+        "georeferencedDate": "2019-12-01",
+        "georeferencedSources": "Google Maps",
+        "marker-color": "#ff0000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.158585,
+          24.415872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Japan",
+        "locality": "Maezato, Ishigaki Island",
+        "eventDate": "1977-09-26",
+        "recordedBy": "R.U. and M.O.",
+        "occurrenceRemarks": "ex compost and bagasse; palm damage observed",
+        "bibliographicCitation": "Oshiro and Okushima 1980",
+        "georeferencedBy": "Aubrey Moore",
+        "georeferencedDate": "2019-12-01",
+        "georeferencedSources": "Google Maps",
+        "marker-color": "#ff0000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.183497,
+          24.339653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Japan",
+        "locality": "Shiokawa, Tarama Island",
+        "eventDate": "1978-08-20",
+        "recordedBy": "R.U. and H. I.",
+        "occurrenceRemarks": "ex compost and bagasse; palm damage observed",
+        "bibliographicCitation": "Oshiro and Okushima 1980",
+        "georeferencedBy": "Aubrey Moore",
+        "georeferencedDate": "2019-12-01",
+        "georeferencedSources": "Google Maps",
+        "marker-color": "#ff0000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.713388,
+          24.656896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Japan",
+        "locality": "Nakasuji, Tarama Island",
+        "eventDate": "1978-08-21",
+        "recordedBy": "R.U. and H. I.",
+        "occurrenceRemarks": "ex compost and bagasse; palm damage observed",
+        "bibliographicCitation": "Oshiro and Okushima 1980",
+        "georeferencedBy": "Aubrey Moore",
+        "georeferencedDate": "2019-12-01",
+        "georeferencedSources": "Google Maps",
+        "marker-color": "#ff0000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.690928,
+          24.662681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Japan",
+        "locality": "Itoman, Okinawa Island",
+        "eventDate": "1977-11-23",
+        "recordedBy": "S.O., M.O. and Y.O.",
+        "occurrenceRemarks": "ex compost and bagasse; palm damage observed",
+        "bibliographicCitation": "Oshiro and Okushima 1980",
+        "georeferencedBy": "Aubrey Moore",
+        "georeferencedDate": "2019-12-01",
+        "georeferencedSources": "Google Maps",
+        "marker-color": "#ff0000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.687259,
+          26.119971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Japan",
+        "locality": "Gushikami, Okinawa Island",
+        "eventDate": "1977-11-23",
+        "recordedBy": "S.O., M.O. and Y.O.",
+        "occurrenceRemarks": "ex compost and bagasse; palm damage observed",
+        "bibliographicCitation": "Oshiro and Okushima 1980",
+        "georeferencedBy": "Aubrey Moore",
+        "georeferencedDate": "2019-12-01",
+        "georeferencedSources": "Google Maps",
+        "marker-color": "#ff0000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.751439,
+          26.130992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Japan",
+        "locality": "Tomigusuku, Okinawa Island",
+        "eventDate": "1977-11-23",
+        "recordedBy": "S.O., M.O. and Y.O.",
+        "occurrenceRemarks": "ex compost and bagasse; palm damage observed",
+        "bibliographicCitation": "Oshiro and Okushima 1980",
+        "georeferencedBy": "Aubrey Moore",
+        "georeferencedDate": "2019-12-01",
+        "georeferencedSources": "Google Maps",
+        "marker-color": "#ff0000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.680602,
+          26.174441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Japan",
+        "locality": "Haebaru, Okinawa Island",
+        "eventDate": "1979-11-23",
+        "recordedBy": "S.O., M.O. and Y.O.",
+        "occurrenceRemarks": "ex compost and bagasse; palm damage observed",
+        "bibliographicCitation": "Oshiro and Okushima 1980",
+        "georeferencedBy": "Aubrey Moore",
+        "georeferencedDate": "2019-12-01",
+        "georeferencedSources": "Google Maps",
+        "marker-color": "#ff0000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.725624,
+          26.191887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Japan",
+        "locality": "Ozato, Okinawa Island",
+        "eventDate": "1977-11-23",
+        "recordedBy": "S.O., M.O. and Y.O.",
+        "occurrenceRemarks": "ex compost and bagasse; palm damage observed",
+        "bibliographicCitation": "Oshiro and Okushima 1980",
+        "georeferencedBy": "Aubrey Moore",
+        "georeferencedDate": "2019-12-01",
+        "georeferencedSources": "Google Maps",
+        "marker-color": "#ff0000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.692115,
+          26.128778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Japan",
+        "locality": "Tamagusuku, Okinawa Island",
+        "eventDate": "1977-11-23",
+        "recordedBy": "S.O., M.O. and Y.O.",
+        "occurrenceRemarks": "ex compost and bagasse; palm damage observed",
+        "bibliographicCitation": "Oshiro and Okushima 1980",
+        "georeferencedBy": "Aubrey Moore",
+        "georeferencedDate": "2019-12-01",
+        "georeferencedSources": "Google Maps",
+        "marker-color": "#ff0000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.772387,
+          26.144672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Japan",
+        "locality": "Chinen, Okinawa Island",
+        "eventDate": "1977-11-23",
+        "recordedBy": "S.O., M.O. and Y.O.",
+        "occurrenceRemarks": "ex compost and bagasse; palm damage observed",
+        "bibliographicCitation": "Oshiro and Okushima 1980",
+        "georeferencedBy": "Aubrey Moore",
+        "georeferencedDate": "2019-12-01",
+        "georeferencedSources": "Google Maps",
+        "marker-color": "#ff0000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.814379,
+          26.164454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Japan",
+        "locality": "Sashiki, Okinawa Island",
+        "eventDate": "1977-11-23",
+        "recordedBy": "S.O., M.O. and Y.O.",
+        "occurrenceRemarks": "ex compost and bagasse; palm damage observed",
+        "bibliographicCitation": "Oshiro and Okushima 1980",
+        "georeferencedBy": "Aubrey Moore",
+        "georeferencedDate": "2019-12-01",
+        "georeferencedSources": "Google Maps",
+        "marker-color": "#ff0000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.771745,
+          26.17496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Japan",
+        "locality": "Minamidaito Island",
+        "eventDate": "1959-05-12",
+        "recordedBy": "Chujo",
+        "occurrenceRemarks": "palm damage observed",
+        "bibliographicCitation": "Oshiro and Okushima 1980; Chujo 1959",
+        "georeferencedBy": "Aubrey Moore",
+        "georeferencedDate": "2019-12-01",
+        "georeferencedSources": "Google Maps",
+        "marker-color": "#ff0000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.241864,
+          25.844537
+        ]
+      }
+    }
+  ]
+}

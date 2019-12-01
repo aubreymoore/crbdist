@@ -1,0 +1,23 @@
+country,locality,eventDate,recordedBy,occurrenceRemarks,bibliographicCitation,decimalLatitude,decimalLongitude,georeferencedBy,georeferencedDate,georeferencedSources,marker-color
+Japan,"Sonai, Yonaguni Island",1978-03-08,K.G. and M.O.,ex compost and chaff; palm damage observed,Oshiro and Okushima 1980,24.469087,123.00489,Aubrey Moore,2019-12-01,Google Maps,#ff0000
+Japan,"Kubura,Yonaguni Island",1980-02-27,Y.O.,ex compost and chaff; palm damage observed,Oshiro and Okushima 1980,24.45134,122.94379,Aubrey Moore,2019-12-01,Google Maps,#ff0000
+Japan,"Kohama, Kohama Island",1978-02-14,Y.O.,ex compost; palm damage observed,Oshiro and Okushima 1980,24.345721,123.98045,Aubrey Moore,2019-12-01,Google Maps,#ff0000
+Japan,"Hateruma, Hateruma Island",1979-03-08,Y.O.,ex compost and bagasse; palm damage observed,Oshiro and Okushima 1980,24.061402,123.776151,Aubrey Moore,2019-12-01,Google Maps,#ff0000
+Japan,"Hateruma, Hateruma Island",1980-01-16,M.K.,ex compost and bagasse; palm damage observed,Oshiro and Okushima 1980,24.061402,123.776151,Aubrey Moore,2019-12-01,Google Maps,#ff0000
+Japan,"Miyara, Ishigaki Island",1977-08-09,Y.O.,ex compost and chaff; palm damage observed,Oshiro and Okushima 1980,24.419668,124.224753,Aubrey Moore,2019-12-01,Google Maps,#ff0000
+Japan,"Akaishi, Ishigaki Island",1977-09-24,R.U. and M.O.,ex compost and chaff; palm damage observed,Oshiro and Okushima 1980,24.553804,124.301315,Aubrey Moore,2019-12-01,Google Maps,#ff0000
+Japan,"Tomino, Ishigaki Island",1977-09-24,R.U. and M.O.,ex compost and chaff; palm damage observed,Oshiro and Okushima 1980,24.453697,124.203553,Aubrey Moore,2019-12-01,Google Maps,#ff0000
+Japan,"Yoshihara, Ishigaki Island",1977-09-25,R.U. and M.O.,ex compost and chaff; palm damage observed,Oshiro and Okushima 1980,24.448249,124.157935,Aubrey Moore,2019-12-01,Google Maps,#ff0000
+Japan,"Nazura, Ishigaki Island",1977-09-25,R.U. and M.O.,ex compost and bagasse; palm damage observed,Oshiro and Okushima 1980,24.415872,124.158585,Aubrey Moore,2019-12-01,Google Maps,#ff0000
+Japan,"Maezato, Ishigaki Island",1977-09-26,R.U. and M.O.,ex compost and bagasse; palm damage observed,Oshiro and Okushima 1980,24.339653,124.183497,Aubrey Moore,2019-12-01,Google Maps,#ff0000
+Japan,"Shiokawa, Tarama Island",1978-08-20,R.U. and H. I.,ex compost and bagasse; palm damage observed,Oshiro and Okushima 1980,24.656896,124.713388,Aubrey Moore,2019-12-01,Google Maps,#ff0000
+Japan,"Nakasuji, Tarama Island",1978-08-21,R.U. and H. I.,ex compost and bagasse; palm damage observed,Oshiro and Okushima 1980,24.662681,124.690928,Aubrey Moore,2019-12-01,Google Maps,#ff0000
+Japan,"Itoman, Okinawa Island",1977-11-23,"S.O., M.O. and Y.O.",ex compost and bagasse; palm damage observed,Oshiro and Okushima 1980,26.119971,127.687259,Aubrey Moore,2019-12-01,Google Maps,#ff0000
+Japan,"Gushikami, Okinawa Island",1977-11-23,"S.O., M.O. and Y.O.",ex compost and bagasse; palm damage observed,Oshiro and Okushima 1980,26.130992,127.751439,Aubrey Moore,2019-12-01,Google Maps,#ff0000
+Japan,"Tomigusuku, Okinawa Island",1977-11-23,"S.O., M.O. and Y.O.",ex compost and bagasse; palm damage observed,Oshiro and Okushima 1980,26.174441,127.680602,Aubrey Moore,2019-12-01,Google Maps,#ff0000
+Japan,"Haebaru, Okinawa Island",1979-11-23,"S.O., M.O. and Y.O.",ex compost and bagasse; palm damage observed,Oshiro and Okushima 1980,26.191887,127.725624,Aubrey Moore,2019-12-01,Google Maps,#ff0000
+Japan,"Ozato, Okinawa Island",1977-11-23,"S.O., M.O. and Y.O.",ex compost and bagasse; palm damage observed,Oshiro and Okushima 1980,26.128778,127.692115,Aubrey Moore,2019-12-01,Google Maps,#ff0000
+Japan,"Tamagusuku, Okinawa Island",1977-11-23,"S.O., M.O. and Y.O.",ex compost and bagasse; palm damage observed,Oshiro and Okushima 1980,26.144672,127.772387,Aubrey Moore,2019-12-01,Google Maps,#ff0000
+Japan,"Chinen, Okinawa Island",1977-11-23,"S.O., M.O. and Y.O.",ex compost and bagasse; palm damage observed,Oshiro and Okushima 1980,26.164454,127.814379,Aubrey Moore,2019-12-01,Google Maps,#ff0000
+Japan,"Sashiki, Okinawa Island",1977-11-23,"S.O., M.O. and Y.O.",ex compost and bagasse; palm damage observed,Oshiro and Okushima 1980,26.17496,127.771745,Aubrey Moore,2019-12-01,Google Maps,#ff0000
+Japan,Minamidaito Island,1959-05-12,Chujo,palm damage observed,Oshiro and Okushima 1980; Chujo 1959,25.844537,131.241864,Aubrey Moore,2019-12-01,Google Maps,#ff0000
