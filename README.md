@@ -18,5 +18,5 @@ Data saved in the **Japan** directory. if you open **Japan/Oshito1980.geojson** 
 
 * Distribution records were transcribed into a CSV file (**Japan/Oshito1980.csv**). Column headings correspond to Darwin core fields.
 * Latitude and longitude were found using locality names to search Google Maps.
-* **Japan/Oshito1980.csv** was transformed to **Japan/Oshito1980.geojson** using http://geojson.io
+* **Japan/Oshito1980.csv** was transformed to **Japan/Oshito1980.geojson** using http://geojson.io simply by dragging the CSV file onto the geojson.io web page and then copying the resulting geojson representation of the CSV table.
 
