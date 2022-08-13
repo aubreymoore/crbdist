@@ -1,5 +1,7 @@
 # crbdist
 
+https://aubreymoore.github.io/crbdist/wm/qgis2web_2022_08_13-19_48_55_780509/index.html
+
 # Visualizing invasion history of the coconut rhinoceros beetle
 
 This project generates an interactive, online map to visualize the invasion history of the coconut rhinoceros beetle, *Oryctes rhinoceros*, a major pest of coconut and oil palms. The map can be seen on [this GitHub page](http://aubreymoore.github.io/crbdist/mymap.html).
