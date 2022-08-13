@@ -1,0 +1,78 @@
+X,Y,Notes,Source,State,Year,Country,marker-color,marker-size,marker-symbol
+90.2419998721,23.8456776713,,Catley,,"1800",Bangladesh,#32cd32,,
+109.7400477837,19.1974353862,,Catley,Hainan,"1800",China,#32cd32,,
+101.0033333514,15.1143997393,CRB-G detected by Reil et al.  2016,Catley,,"1800",Thailand,#32cd32,,circle-stroked
+80.7031628582,7.6159146067,,Catley,,"1800",Sri Lanka,#32cd32,,
+120.9498753298,23.7529851134,Formosa in Catley,Catley,,"1800",Taiwan,#32cd32,medium,circle-stroked
+109.6988686366,3.7923927886,Malay Peninsula in Catley,Catley,,"1800",Malaysia,#32cd32,,
+122.8744842572,11.7630150663,,Catley,,"1800",Philippines,#32cd32,medium,
+96.4892894763,21.1676699887,Burma in Catley,Catley,,"1800",Myanmar,#32cd32,,
+69.341343274,29.9484969425,West Pakistan in Catley,Catley,,"1800",Pakistan,#32cd32,,
+114.1314468562,22.3846368801,,Catley,,"1800",Hong Kong,#32cd32,,
+120.177835264,-3.661945786,"Celebes in Catley; CRB-G detected in some, but not all specimens (Marshall 2017)",Catley,Sulawesi,"1800",Indonesia,#32cd32,,circle-stroked
+129.112,-3.098,Ceram in Catley,Catley,Seram,"1800",Indonesia,#32cd32,,
+128.1,-3.62,Aboina Island in Catley,Catley,Ambon Island,"1800",Indonesia,#32cd32,,
+-171.75,-13.9166666667,,Catley,Upolu,"1909",Samoa,#FFA500,,
+-172.4167,-13.5833333333,,Catley,Savaii,"1912",Samoa,#FFA500,,
+-172.7,-14.295,,Catley,Tutuila,"1912",American Samoa,#FFA500,,
+-173.777751,-15.954282,Keppel Island,Catley,Niuatoputapu,"1921",Tonga,#FFA500,,
+-176.2,-13.266667,,Catley,,"1931",Wallis Island,#FFA500,,
+134.58252,7.51498,,Catley,,"1942",Palau,#ffa500,,circle-stroked
+150.767921,-5.74659,,Catley,,"1942",New Britain,#FFA500,,
+133.174716,-1.336115,"date approx; West New Guinea in Catley",Catley,,"1942",West Papua,#FFA500,,
+-173.990298,-18.6227565833,,Catley,Vavau,"1952",Tonga,#FFA500,,
+152.0,-3.33,,Catley,,"1952",New Ireland,#FFA500,,
+178.011847,-17.848319,,Catley,Viiti Levu,"1952",Fiji,#FFA500,,
+147.635405,-2.080667,,Catley,Pak Island,"1960",New Guinea,#FFA500,,
+-175.251548,-21.146597,,Catley,Tongatapu,"1961",Tonga,#FFA500,,
+-171.8484,-9.2002,,Catley,,"1963",Tokelau Islands,#FFA500,,
+72.422856,-7.319501,date approx.,Catley,,"1918",Diego Garcia,#FFA500,,
+96.841739,-12.170874,,Catley,,"1940",Cocos Islands,#FFA500,,
+57.552152,-20.348404,,Catley,,"1962",Maritius,#FFA500,,
+159.95,-9.4333333333,,Moore,Guadalcanal,"2015",Solomon Islands,#ff0000,,circle
+-157.929047,21.316346,,Moore,Oahu,"2013",Hawaii,#ff0000,,circle
+144.771876,13.450551,,Moore,Guam,"2007",Guam,#ff0000,,circle
+79.739987,15.9129,,Pallipparambil,Andhra Pradesh,"1800",India,#32cd32,,
+94.727753,28.217999,,Pallipparambil,Arunachal Pradesh,"1800",India,#32cd32,,
+77.17339,31.104829,,Pallipparambil,Himachal Pradesh,"1800",India,#32cd32,,
+78.656894,22.973423,,Pallipparambil,Madhya Pradesh,"1800",India,#32cd32,,
+80.098187,27.570589,,Pallipparambil,Uttar Pradesh,"1800",India,#32cd32,,
+76.271083,10.850516,,Pallipparambil,Kerala,"1800",India,#32cd32,,
+87.854975,22.986757,,Pallipparambil,West Bengal,"1800",India,#32cd32,,
+78.656894,22.973423,,Pallipparambil,Madhya Pradesh,"1800",India,#32cd32,,
+93.906269,24.663717,,Pallipparambil,Manipur,"1800",India,#32cd32,,
+91.988153,23.940848,,Pallipparambil,Tripura,"1800",India,#32cd32,,
+75.713888,15.317277,,Pallipparambil,Karnataka,"1800",India,#32cd32,,
+75.713888,19.75148,,Pallipparambil,Maharashtra,"1800",India,#32cd32,,
+92.937574,26.200604,,Pallipparambil,Assam,"1800",India,#32cd32,,
+74.123996,15.299326,,Pallipparambil,Goa,"1800",India,#32cd32,,
+71.19238,22.258652,,Pallipparambil,Gujarat,"1800",India,#32cd32,,
+78.656894,11.127123,,Pallipparambil,Tamil Nadu,"1800",India,#32cd32,,
+85.098524,20.951666,,Pallipparambil,Orissa,"1800",India,#32cd32,,
+74.217933,27.023804,,Pallipparambil,Rajasthan,"1800",India,#32cd32,,
+94.562443,26.158435,,Pallipparambil,Nagaland,"1800",India,#32cd32,,
+85.313119,25.096074,,Pallipparambil,Bihar,"1800",India,#32cd32,,
+85.279935,23.610181,,Pallipparambil,Jharkhand,"1800",India,#32cd32,,
+147.1802671,-9.4438004,"CRB-G detected in some, but not all specimens Marshall et al. 2017",Moore,Port Moresby,"2015",Papua New Guinea,#ff0000,,circle-stroked
+55.536384,-21.115141,,ISSG,,"1978",Reunion,#FFA500,,
+102.495496,19.85627,,"Nishida & Evenhuis, 2000",,"1800",Laos,#32cd32,,
+45.166244,-12.8275,no arrival date,ISSG,,"1978",Mayotte,#FFA500,,
+104.990963,12.565679,,"Nishida & Evenhuis, 2000",,"1800",Cambodia,#32cd32,,
+108.277199,14.058324,,ISSG,,"1800",Vietnam,#32cd32,,
+123.2707214355,9.3040830433,all specimens CRB-G ???,Moore,Negros Island,"1800",Philippines,#32cd32,medium,circle-stroked
+127.9455,26.5014,data from Madoka,?,Okinawa,"1975",Japan,#ffa500,medium,
+128.4313,27.0442,data from Madoka,?,Yuron-jima,"1988",Japan,#ffa501,,
+128.5855,27.3769,data from Madoka,?,Okino-erabu-shima,"1987",Japan,#ffa502,,
+128.9505,27.7675,data from Madoka,?,Tokuno-shima,"1991",Japan,#ffa503,,
+129.4276,28.3261,data from Madoka,?,Amami,"1991",Japan,#ffa504,,
+131.3068,25.9445,data from Madoka,?,Kitadaito,"1960",Japan,#ffa505,,
+131.2439,25.8446,data from Madoka,?,Minamidaito,"1957",Japan,#ffa506,,
+122.9867,24.4534,data from Madoka,?,Yonaguni-shima,"1972",Japan,#ffa507,,
+123.8216,24.339,data from Madoka,?,Iriomote-jima,"1967",Japan,#ffa508,,
+124.181,24.4151,data from Madoka,?,Ishigaki-shima,"1921",Japan,#ffa509,,
+125.3184,24.771,data from Madoka,?,Miyako-jima,"1983",Japan,#ffa510,,
+145.131068,14.132547,https://www.inaturalist.org/observations/8292435,Moore,Rota,"2017",CNMI,#ff0000,,circle
+159.8147,-9.1328,,Moore ,Savo Island,"2017",Solomon Islands,#ff0000,,circle
+160.9868,-9.0113,,Moore,Malaita Island,"2017",Solomon Islands,#ff0000,,circle
+168.2062,-17.6368,https://www.dailypost.vu/news/invasive-beetle-species-alert/article_6932e0ed-7699-5f69-81d9-32844a7d4465.html,Moore,Efate,"2019",Vanuatu,#ff0000,,
+166.2189,-22.0144,https://www.ippc.int/en/countries/new-caledonia/pestreports/2019/10/detection-of-coconut-rhinoceros-beetle-crb/,Moore,,"2019",New Caledonia,#ff0000,,circle
