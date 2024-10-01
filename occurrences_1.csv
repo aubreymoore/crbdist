@@ -1,0 +1,81 @@
+id|eventDate|country|stateProvince|islandGroup|island|locality|decimalLatitude|decimalLongitude|coordinateUncertaintyInMeters|georeferenceRemarks|occurrenceRemarks|Notes|Source
+1|1991-01-01|Japan|Amami||||28.3261|129.4276|1000|||data from Madoka|?
+2|1800-01-01|Indonesia|Ambon Island||||-3.62|128.1|1000|||Aboina Island in Catley|Catley
+3|1800-01-01|India|Andhra Pradesh||||15.9129|79.739987|1000||||Pallipparambil
+4|1800-01-01|India|Arunachal Pradesh||||28.217999|94.727753|1000||||Pallipparambil
+5|1800-01-01|India|Assam||||26.200604|92.937574|1000||||Pallipparambil
+6|1800-01-01|India|Bihar||||25.096074|85.313119|1000||||Pallipparambil
+7|2019-01-01|Vanuatu|Efate||||-17.6368|168.2062|1000|||https://www.dailypost.vu/news/invasive-beetle-species-alert/article_6932e0ed-7699-5f69-81d9-32844a7d4465.html|Moore
+8|1800-01-01|India|Goa||||15.299326|74.123996|1000||||Pallipparambil
+9|2015-01-01|Solomon Islands|Guadalcanal||||-9.4333333333|159.95|1000||||Moore
+10|2007-01-01|Guam|Guam||||13.450551|144.771876|1000||||Moore
+11|1800-01-01|India|Gujarat||||22.258652|71.19238|1000||||Pallipparambil
+12|1800-01-01|China|Hainan||||19.1974353862|109.7400477837|1000||||Catley
+13|1800-01-01|India|Himachal Pradesh||||31.104829|77.17339|1000||||Pallipparambil
+14|1967-01-01|Japan|Iriomote-jima||||24.339|123.8216|1000|||data from Madoka|?
+15|1921-01-01|Japan|Ishigaki-shima||||24.4151|124.181|1000|||data from Madoka|?
+16|1800-01-01|India|Jharkhand||||23.610181|85.279935|1000||||Pallipparambil
+17|1800-01-01|India|Karnataka||||15.317277|75.713888|1000||||Pallipparambil
+18|1800-01-01|India|Kerala||||10.850516|76.271083|1000||||Pallipparambil
+19|1960-01-01|Japan|Kitadaito||||25.9445|131.3068|1000|||data from Madoka|?
+20|1800-01-01|India|Madhya Pradesh||||22.973423|78.656894|1000||||Pallipparambil
+21|1800-01-01|India|Madhya Pradesh||||22.973423|78.656894|1000||||Pallipparambil
+22|1800-01-01|India|Maharashtra||||19.75148|75.713888|1000||||Pallipparambil
+23|2017-01-01|Solomon Islands|Malaita Island||||-9.0113|160.9868|1000||||Moore
+24|1800-01-01|India|Manipur||||24.663717|93.906269|1000||||Pallipparambil
+25|1957-01-01|Japan|Minamidaito||||25.8446|131.2439|1000|||data from Madoka|?
+26|1983-01-01|Japan|Miyako-jima||||24.771|125.3184|1000|||data from Madoka|?
+27|1800-01-01|India|Nagaland||||26.158435|94.562443|1000||||Pallipparambil
+28|1800-01-01|Philippines|Negros Island||||9.3040830433|123.2707214355|1000|||all specimens CRB-G ???|Moore
+29|1921-01-01|Tonga|Niuatoputapu||||-15.954282|-173.777751|1000|||Keppel Island|Catley
+30|2013-01-01|Hawaii|Oahu||||21.316346|-157.929047|1000||||Moore
+31|1975-01-01|Japan|Okinawa||||26.5014|127.9455|1000|||data from Madoka|?
+32|1987-01-01|Japan|Okino-erabu-shima||||27.3769|128.5855|1000|||data from Madoka|?
+33|1800-01-01|India|Orissa||||20.951666|85.098524|1000||||Pallipparambil
+34|1960-01-01|New Guinea|Pak Island||||-2.080667|147.635405|1000||||Catley
+35|2015-01-01|Papua New Guinea|Port Moresby||||-9.4438004|147.1802671|1000|||CRB-G detected in some but not all specimens Marshall et al. 2017|Moore
+36|1800-01-01|India|Rajasthan||||27.023804|74.217933|1000||||Pallipparambil
+37|2017-01-01|CNMI|Rota||||14.132547|145.131068|1000|||https://www.inaturalist.org/observations/8292435|Moore
+38|1912-01-01|Samoa|Savaii||||-13.5833333333|-172.4167|1000||||Catley
+39|2017-01-01|Solomon Islands|Savo Island||||-9.1328|159.8147|1000||||Moore
+40|1800-01-01|Indonesia|Seram||||-3.098|129.112|1000|||Ceram in Catley|Catley
+41|1800|1800-01-01|Catley||||-3.661945786|120.177835264|1000|||Celebes in Catley; CRB-G detected in some but not all specimens (Marshall 2017)|Catley
+42|1800-01-01|India|Tamil Nadu||||11.127123|78.656894|1000||||Pallipparambil
+43|1991-01-01|Japan|Tokuno-shima||||27.7675|128.9505|1000|||data from Madoka|?
+44|1961-01-01|Tonga|Tongatapu||||-21.146597|-175.251548|1000||||Catley
+45|1800-01-01|India|Tripura||||23.940848|91.988153|1000||||Pallipparambil
+46|1912-01-01|American Samoa|Tutuila||||-14.295|-172.7|1000||||Catley
+47|1909-01-01|Samoa|Upolu||||-13.9166666667|-171.75|1000||||Catley
+48|1800-01-01|India|Uttar Pradesh||||27.570589|80.098187|1000||||Pallipparambil
+49|1952-01-01|Tonga|Vavau||||-18.6227565833|-173.990298|1000||||Catley
+50|1952-01-01|Fiji|Viiti Levu||||-17.848319|178.011847|1000||||Catley
+51|1800-01-01|India|West Bengal||||22.986757|87.854975|1000||||Pallipparambil
+52|1972-01-01|Japan|Yonaguni-shima||||24.4534|122.9867|1000|||data from Madoka|?
+53|1988-01-01|Japan|Yuron-jima||||27.0442|128.4313|1000|||data from Madoka|?
+54|1800-01-01|Bangladesh|||||23.8456776713|90.2419998721|1000||||Catley
+55|1800-01-01|Thailand|||||15.1143997393|101.0033333514|1000|||CRB-G detected by Reil et al.  2016|Catley
+56|1800-01-01|Sri Lanka|||||7.6159146067|80.7031628582|1000||||Catley
+57|1800-01-01|Taiwan|||||23.7529851134|120.9498753298|1000|||Formosa in Catley|Catley
+58|1800-01-01|Malaysia|||||3.7923927886|109.6988686366|1000|||Malay Peninsula in Catley|Catley
+59|1800-01-01|Philippines|||||11.7630150663|122.8744842572|1000||||Catley
+60|1800-01-01|Myanmar|||||21.1676699887|96.4892894763|1000|||Burma in Catley|Catley
+61|1800-01-01|Pakistan|||||29.9484969425|69.341343274|1000|||West Pakistan in Catley|Catley
+62|1800-01-01|Hong Kong|||||22.3846368801|114.1314468562|1000||||Catley
+63|1931-01-01|Wallis Island|||||-13.266667|-176.2|1000||||Catley
+64|1942-01-01|Palau|||||7.51498|134.58252|1000||||Catley
+65|1942-01-01|New Britain|||||-5.74659|150.767921|1000||||Catley
+66|1942-01-01|West Papua|Catley||||-1.336115|133.174716|1000|||date approx|West New Guinea in Catley
+67|1952-01-01|New Ireland|||||-3.33|152.0|1000||||Catley
+68|1963-01-01|Tokelau Islands|||||-9.2002|-171.8484|1000||||Catley
+69|1918-01-01|Diego Garcia|||||-7.319501|72.422856|1000|||date approx.|Catley
+70|1940-01-01|Cocos Islands|||||-12.170874|96.841739|1000||||Catley
+71|1962-01-01|Maritius|||||-20.348404|57.552152|1000||||Catley
+72|1978-01-01|Reunion|||||-21.115141|55.536384|1000||||ISSG
+73|1800-01-01|Laos|||||19.85627|102.495496|1000||||Nishida & Evenhuis 2000
+74|1978-01-01|Mayotte|||||-12.8275|45.166244|1000|||no arrival date|ISSG
+75|1800-01-01|Cambodia|||||12.565679|104.990963|1000||||Nishida & Evenhuis 2000
+76|1800-01-01|Vietnam|||||14.058324|108.277199|1000||||ISSG
+77|2019-01-01|New Caledonia|||||-22.0144|166.2189|1000|||https://www.ippc.int/en/countries/new-caledonia/pestreports/2019/10/detection-of-coconut-rhinoceros-beetle-crb/|Moore
+78|2023-09-01|Republic of the Marshall Islands|Majuro||||7.0558|171.2444|1000||||Moore
+79|2023-05-01|Hawaii|Kauai||||21.8761|-159.3389|1000||||Moore
+80|2023-10-11|Hawaii|Hawaii (Big Island)||||19.9414|-155.7927|1000||||Moore
