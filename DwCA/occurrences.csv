@@ -1,4 +1,4 @@
-id|eventDate|country|stateProvince|islandGroup|island|locality|decimalLatitude|decimalLongitude|coordinateUncertaintyInMeters|georeferenceRemarks|occurrenceRemarks
+id|eventDate|country|stateProvince|islandGroup|island|locality|decimalLatitude|decimalLongitude|coordinateUncertaintyInMeters|georeferenceRemarks|associatedReferences
 1|1991-01-01|Japan|Amami||||28.3261|129.4276|1000||
 2|1800-01-01|Indonesia|Ambon Island||||-3.62|128.1|1000||
 3|1800-01-01|India|Andhra Pradesh||||15.9129|79.739987|1000||
@@ -79,5 +79,5 @@ id|eventDate|country|stateProvince|islandGroup|island|locality|decimalLatitude|d
 78|2023-09-01|Republic of the Marshall Islands|Majuro||||7.0558|171.2444|1000||
 79|2023-05-01|Hawaii|Kauai||||21.8761|-159.3389|1000||
 80|2023-10-11|Hawaii|Hawaii (Big Island)||||19.9414|-155.7927|1000||
-81|2023-11-01|Hawaii|Maui|Hawaiian Islands|Maui|Kihei|20.756004|156.452977|5000|
-82|2024-01-07|Timor-Leste|||Timor|Dili|-8.560657|125.5565|100||Sulav Paudel, Guihermino Soares, Abel Ximenes, et al. Confirmation of coconut rhinoceros beetle from Timor-Leste. Authorea. September 11, 2024.DOI: 10.22541/au.172557298.83610259/v2 
+81|2023-11-01|Hawaii|Maui|Hawaiian Islands|Maui|Kihei|20.756004|156.452977|5000||
+82|2024-01-07|Timor-Leste|||Timor|Dili|-8.560657|125.5565|100||ref
