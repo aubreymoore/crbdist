@@ -19,6 +19,7 @@
 		<field index="9" term="http://rs.tdwg.org/dwc/terms/coordinateUncertaintyInMeters"/>
 		<field index="10" term="http://rs.tdwg.org/dwc/terms/georeferenceRemarks"/>
 		<field index="11" term="http://rs.tdwg.org/dwc/terms/occurrenceRemarks"/>
+		<field index="13" term="http://rs.tdwg.org/dwc/terms/establishmentMeans" />
 		<field index="12" delimitedBy=";" term="http://rs.tdwg.org/dwc/terms/associatedReferences"/>
 	</core>
 </archive>

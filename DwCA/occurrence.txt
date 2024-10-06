@@ -1,83 +1,83 @@
-id|eventDate|country|stateProvince|islandGroup|island|locality|decimalLatitude|decimalLongitude|coordinateUncertaintyInMeters|georeferenceRemarks|associatedReferences
-1|1991|Japan|Amami||||28.3261|129.4276|1000||
-2|1800|Indonesia|Ambon Island||||-3.62|128.1|1000||Catley, A. 1969. The coconut rhinoceros beetle, Oryctes rhinoceross (L). International Journal of Pest Management: Part A  15(1) p. 18-30.
-3|1800|India|Andhra Pradesh||||15.9129|79.739987|1000||Pallipparambil, G. 2015. New Pest Response Guidelines: Oryctes rhinoceros (L.) Coleoptera: Scarabaeidae. United States Department of Agriculture - Animal and Plant Health Inspection Service - Plant Protection and Quarantine. p. 180. https://tinyurl.com/mpdmvfpt
-4|1800|India|Arunachal Pradesh||||28.217999|94.727753|1000||Pallipparambil, G. 2015. New Pest Response Guidelines: Oryctes rhinoceros (L.) Coleoptera: Scarabaeidae. United States Department of Agriculture - Animal and Plant Health Inspection Service - Plant Protection and Quarantine. p. 180. https://tinyurl.com/mpdmvfpt
-5|1800|India|Assam||||26.200604|92.937574|1000||Pallipparambil, G. 2015. New Pest Response Guidelines: Oryctes rhinoceros (L.) Coleoptera: Scarabaeidae. United States Department of Agriculture - Animal and Plant Health Inspection Service - Plant Protection and Quarantine. p. 180. https://tinyurl.com/mpdmvfpt
-6|1800|India|Bihar||||25.096074|85.313119|1000||Pallipparambil, G. 2015. New Pest Response Guidelines: Oryctes rhinoceros (L.) Coleoptera: Scarabaeidae. United States Department of Agriculture - Animal and Plant Health Inspection Service - Plant Protection and Quarantine. p. 180. https://tinyurl.com/mpdmvfpt
-7|2019|Vanuatu|Efate||||-17.6368|168.2062|1000||
-8|1800|India|Goa||||15.299326|74.123996|1000||Pallipparambil, G. 2015. New Pest Response Guidelines: Oryctes rhinoceros (L.) Coleoptera: Scarabaeidae. United States Department of Agriculture - Animal and Plant Health Inspection Service - Plant Protection and Quarantine. p. 180. https://tinyurl.com/mpdmvfpt
-9|2015|Solomon Islands|Guadalcanal||||-9.4333333333|159.95|1000||
-10|2007|Guam|Guam||||13.450551|144.771876|1000||
-11|1800|India|Gujarat||||22.258652|71.19238|1000||Pallipparambil, G. 2015. New Pest Response Guidelines: Oryctes rhinoceros (L.) Coleoptera: Scarabaeidae. United States Department of Agriculture - Animal and Plant Health Inspection Service - Plant Protection and Quarantine. p. 180. https://tinyurl.com/mpdmvfpt
-12|1800|China|Hainan||||19.1974353862|109.7400477837|1000||Catley, A. 1969. The coconut rhinoceros beetle, Oryctes rhinoceross (L). International Journal of Pest Management: Part A  15(1) p. p. 18-30.
-13|1800|India|Himachal Pradesh||||31.104829|77.17339|1000||Pallipparambil, G. 2015. New Pest Response Guidelines: Oryctes rhinoceros (L.) Coleoptera: Scarabaeidae. United States Department of Agriculture - Animal and Plant Health Inspection Service - Plant Protection and Quarantine. p. 180. https://tinyurl.com/mpdmvfpt
-14|1967|Japan|Iriomote-jima||||24.339|123.8216|1000||
-15|1921|Japan|Ishigaki-shima||||24.4151|124.181|1000||
-16|1800|India|Jharkhand||||23.610181|85.279935|1000||Pallipparambil, G. 2015. New Pest Response Guidelines: Oryctes rhinoceros (L.) Coleoptera: Scarabaeidae. United States Department of Agriculture - Animal and Plant Health Inspection Service - Plant Protection and Quarantine. p. 180. https://tinyurl.com/mpdmvfpt
-17|1800|India|Karnataka||||15.317277|75.713888|1000||Pallipparambil, G. 2015. New Pest Response Guidelines: Oryctes rhinoceros (L.) Coleoptera: Scarabaeidae. United States Department of Agriculture - Animal and Plant Health Inspection Service - Plant Protection and Quarantine. p. 180. https://tinyurl.com/mpdmvfpt
-18|1800|India|Kerala||||10.850516|76.271083|1000||Pallipparambil, G. 2015. New Pest Response Guidelines: Oryctes rhinoceros (L.) Coleoptera: Scarabaeidae. United States Department of Agriculture - Animal and Plant Health Inspection Service - Plant Protection and Quarantine. p. 180. https://tinyurl.com/mpdmvfpt
-19|1960|Japan|Kitadaito||||25.9445|131.3068|1000||
-20|1800|India|Madhya Pradesh||||22.973423|78.656894|1000||Pallipparambil, G. 2015. New Pest Response Guidelines: Oryctes rhinoceros (L.) Coleoptera: Scarabaeidae. United States Department of Agriculture - Animal and Plant Health Inspection Service - Plant Protection and Quarantine. p. 180. https://tinyurl.com/mpdmvfpt
-21|1800|India|Madhya Pradesh||||22.973423|78.656894|1000||Pallipparambil, G. 2015. New Pest Response Guidelines: Oryctes rhinoceros (L.) Coleoptera: Scarabaeidae. United States Department of Agriculture - Animal and Plant Health Inspection Service - Plant Protection and Quarantine. p. 180. https://tinyurl.com/mpdmvfpt
-22|1800|India|Maharashtra||||19.75148|75.713888|1000||Pallipparambil, G. 2015. New Pest Response Guidelines: Oryctes rhinoceros (L.) Coleoptera: Scarabaeidae. United States Department of Agriculture - Animal and Plant Health Inspection Service - Plant Protection and Quarantine. p. 180. https://tinyurl.com/mpdmvfpt
-23|2017|Solomon Islands|Malaita Island||||-9.0113|160.9868|1000||
-24|1800|India|Manipur||||24.663717|93.906269|1000||Pallipparambil, G. 2015. New Pest Response Guidelines: Oryctes rhinoceros (L.) Coleoptera: Scarabaeidae. United States Department of Agriculture - Animal and Plant Health Inspection Service - Plant Protection and Quarantine. p. 180. https://tinyurl.com/mpdmvfpt
-25|1957|Japan|Minamidaito||||25.8446|131.2439|1000||
-26|1983|Japan|Miyako-jima||||24.771|125.3184|1000||
-27|1800|India|Nagaland||||26.158435|94.562443|1000||Pallipparambil, G. 2015. New Pest Response Guidelines: Oryctes rhinoceros (L.) Coleoptera: Scarabaeidae. United States Department of Agriculture - Animal and Plant Health Inspection Service - Plant Protection and Quarantine. p. 180. https://tinyurl.com/mpdmvfpt
-28|1800|Philippines|Negros Island||||9.3040830433|123.2707214355|1000||
-29|1921|Tonga|Niuatoputapu||||-15.954282|-173.777751|1000||Catley, A. 1969. The coconut rhinoceros beetle, Oryctes rhinoceross (L). International Journal of Pest Management: Part A  15(1) p. 18-30.
-30|2013|Hawaii|Oahu||||21.316346|-157.929047|1000||
-31|1975|Japan|Okinawa||||26.5014|127.9455|1000||
-32|1987|Japan|Okino-erabu-shima||||27.3769|128.5855|1000||
-33|1800|India|Orissa||||20.951666|85.098524|1000||Pallipparambil, G. 2015. New Pest Response Guidelines: Oryctes rhinoceros (L.) Coleoptera: Scarabaeidae. United States Department of Agriculture - Animal and Plant Health Inspection Service - Plant Protection and Quarantine. p. 180. https://tinyurl.com/mpdmvfpt
-34|1960|New Guinea|Pak Island||||-2.080667|147.635405|1000||Catley, A. 1969. The coconut rhinoceros beetle, Oryctes rhinoceross (L). International Journal of Pest Management: Part A  15(1) p. 18-30.
-35|2015|Papua New Guinea|Port Moresby||||-9.4438004|147.1802671|1000||
-36|1800|India|Rajasthan||||27.023804|74.217933|1000||Pallipparambil, G. 2015. New Pest Response Guidelines: Oryctes rhinoceros (L.) Coleoptera: Scarabaeidae. United States Department of Agriculture - Animal and Plant Health Inspection Service - Plant Protection and Quarantine. p. 180. https://tinyurl.com/mpdmvfpt
-37|2017|CNMI|Rota||||14.132547|145.131068|1000||
-38|1912|Samoa|Savaii||||-13.5833333333|-172.4167|1000||Catley, A. 1969. The coconut rhinoceros beetle, Oryctes rhinoceross (L). International Journal of Pest Management: Part A  15(1) p. 18-30.
-39|2017|Solomon Islands|Savo Island||||-9.1328|159.8147|1000||
-40|1800|Indonesia|Seram||||-3.098|129.112|1000||Catley, A. 1969. The coconut rhinoceros beetle, Oryctes rhinoceross (L). International Journal of Pest Management: Part A  15(1) p. 18-30.
-41|1800|Indonesia|Sulawesi||||-3.661945786|120.177835264|1000||Catley, A. 1969. The coconut rhinoceros beetle, Oryctes rhinoceross (L). International Journal of Pest Management: Part A  15(1) p. 18-30.
-42|1800|India|Tamil Nadu||||11.127123|78.656894|1000||Pallipparambil, G. 2015. New Pest Response Guidelines: Oryctes rhinoceros (L.) Coleoptera: Scarabaeidae. United States Department of Agriculture - Animal and Plant Health Inspection Service - Plant Protection and Quarantine. p. 180. https://tinyurl.com/mpdmvfpt
-43|1991|Japan|Tokuno-shima||||27.7675|128.9505|1000||
-44|1961|Tonga|Tongatapu||||-21.146597|-175.251548|1000||Catley, A. 1969. The coconut rhinoceros beetle, Oryctes rhinoceross (L). International Journal of Pest Management: Part A  15(1) p. 18-30.
-45|1800|India|Tripura||||23.940848|91.988153|1000||Pallipparambil, G. 2015. New Pest Response Guidelines: Oryctes rhinoceros (L.) Coleoptera: Scarabaeidae. United States Department of Agriculture - Animal and Plant Health Inspection Service - Plant Protection and Quarantine. p. 180. https://tinyurl.com/mpdmvfpt
-46|1912|American Samoa|Tutuila||||-14.295|-172.7|1000||Catley, A. 1969. The coconut rhinoceros beetle, Oryctes rhinoceross (L). International Journal of Pest Management: Part A  15(1) p. 18-30.
-47|1909|Samoa|Upolu||||-13.9166666667|-171.75|1000||Catley, A. 1969. The coconut rhinoceros beetle, Oryctes rhinoceross (L). International Journal of Pest Management: Part A  15(1) p. 18-30.
-48|1800|India|Uttar Pradesh||||27.570589|80.098187|1000||Pallipparambil, G. 2015. New Pest Response Guidelines: Oryctes rhinoceros (L.) Coleoptera: Scarabaeidae. United States Department of Agriculture - Animal and Plant Health Inspection Service - Plant Protection and Quarantine. p. 180. https://tinyurl.com/mpdmvfpt
-49|1952|Tonga|Vavau||||-18.6227565833|-173.990298|1000||Catley, A. 1969. The coconut rhinoceros beetle, Oryctes rhinoceross (L). International Journal of Pest Management: Part A  15(1) p. 18-30.
-50|1952|Fiji|Viiti Levu||||-17.848319|178.011847|1000||Catley, A. 1969. The coconut rhinoceros beetle, Oryctes rhinoceross (L). International Journal of Pest Management: Part A  15(1) p. 18-30.
-51|1800|India|West Bengal||||22.986757|87.854975|1000||Pallipparambil, G. 2015. New Pest Response Guidelines: Oryctes rhinoceros (L.) Coleoptera: Scarabaeidae. United States Department of Agriculture - Animal and Plant Health Inspection Service - Plant Protection and Quarantine. p. 180. https://tinyurl.com/mpdmvfpt
-52|1972|Japan|Yonaguni-shima||||24.4534|122.9867|1000||
-53|1988|Japan|Yuron-jima||||27.0442|128.4313|1000||
-54|1800|Bangladesh|||||23.8456776713|90.2419998721|1000||Catley, A. 1969. The coconut rhinoceros beetle, Oryctes rhinoceross (L). International Journal of Pest Management: Part A  15(1) p. 18-30.
-55|1800|Thailand|||||15.1143997393|101.0033333514|1000||Catley, A. 1969. The coconut rhinoceros beetle, Oryctes rhinoceross (L). International Journal of Pest Management: Part A  15(1) p. 18-30.
-56|1800|Sri Lanka|||||7.6159146067|80.7031628582|1000||Catley, A. 1969. The coconut rhinoceros beetle, Oryctes rhinoceross (L). International Journal of Pest Management: Part A  15(1) p. 18-30.
-57|1800|Taiwan|||||23.7529851134|120.9498753298|1000||Catley, A. 1969. The coconut rhinoceros beetle, Oryctes rhinoceross (L). International Journal of Pest Management: Part A  15(1) p. 18-30.
-58|1800|Malaysia|||||3.7923927886|109.6988686366|1000||Catley, A. 1969. The coconut rhinoceros beetle, Oryctes rhinoceross (L). International Journal of Pest Management: Part A  15(1) p. 18-30.
-59|1800|Philippines|||||11.7630150663|122.8744842572|1000||Catley, A. 1969. The coconut rhinoceros beetle, Oryctes rhinoceross (L). International Journal of Pest Management: Part A  15(1) p. 18-30.
-60|1800|Myanmar|||||21.1676699887|96.4892894763|1000||Catley, A. 1969. The coconut rhinoceros beetle, Oryctes rhinoceross (L). International Journal of Pest Management: Part A  15(1) p. 18-30.
-61|1800|Pakistan|||||29.9484969425|69.341343274|1000||Catley, A. 1969. The coconut rhinoceros beetle, Oryctes rhinoceross (L). International Journal of Pest Management: Part A  15(1) p. 18-30.
-62|1800|Hong Kong|||||22.3846368801|114.1314468562|1000||Catley, A. 1969. The coconut rhinoceros beetle, Oryctes rhinoceross (L). International Journal of Pest Management: Part A  15(1) p. 18-30.
-63|1931|Wallis Island|||||-13.266667|-176.2|1000||Catley, A. 1969. The coconut rhinoceros beetle, Oryctes rhinoceross (L). International Journal of Pest Management: Part A  15(1) p. 18-30.
-64|1942|Palau|||||7.51498|134.58252|1000||Catley, A. 1969. The coconut rhinoceros beetle, Oryctes rhinoceross (L). International Journal of Pest Management: Part A  15(1) p. 18-30.
-65|1942|New Britain|||||-5.74659|150.767921|1000||Catley, A. 1969. The coconut rhinoceros beetle, Oryctes rhinoceross (L). International Journal of Pest Management: Part A  15(1) p. 18-30.
-66|1942|West Papua|Catley||||-1.336115|133.174716|1000||
-67|1952|New Ireland|||||-3.33|152.0|1000||Catley, A. 1969. The coconut rhinoceros beetle, Oryctes rhinoceross (L). International Journal of Pest Management: Part A  15(1) p. 18-30.
-68|1963|Tokelau Islands|||||-9.2002|-171.8484|1000||Catley, A. 1969. The coconut rhinoceros beetle, Oryctes rhinoceross (L). International Journal of Pest Management: Part A  15(1) p. 18-30.
-69|1918|Diego Garcia|||||-7.319501|72.422856|1000||Catley, A. 1969. The coconut rhinoceros beetle, Oryctes rhinoceross (L). International Journal of Pest Management: Part A  15(1) p. 18-30.
-70|1940|Cocos Islands|||||-12.170874|96.841739|1000||Catley, A. 1969. The coconut rhinoceros beetle, Oryctes rhinoceross (L). International Journal of Pest Management: Part A  15(1) p. 18-30.
-71|1962|Maritius|||||-20.348404|57.552152|1000||Catley, A. 1969. The coconut rhinoceros beetle, Oryctes rhinoceross (L). International Journal of Pest Management: Part A  15(1) p. 18-30.
-72|1978|Reunion|||||-21.115141|55.536384|1000||
-73|1800|Laos|||||19.85627|102.495496|1000||
-74|1978|Mayotte|||||-12.8275|45.166244|1000||
-75|1800|Cambodia|||||12.565679|104.990963|1000||
-76|1800|Vietnam|||||14.058324|108.277199|1000||
-77|2019|New Caledonia|||||-22.0144|166.2189|1000||
-78|2023-09-01|Republic of the Marshall Islands|Majuro||||7.0558|171.2444|1000||
-79|2023-05-01|USA|Hawaii|Hawaiian Islands|Kauai Island||21.8761|-159.3389|1000||
-80|2023-10-11|USA|Hawaii|Hawaiian Islands|Hawaii Island||19.9414|-155.7927|1000||
-81|2023-11-01|USA|Hawaii|Hawaiian Islands|Maui Island|Kihei|20.756004|156.452977|5000||
-82|2024-01-07|Timor-Leste||Lesser Sunda Islands|Timor Island|Dili|-8.560657|125.5565|5000|Centroid of Dili|Paudel, S. et al. 2024. Confirmation of coconut rhinoceros beetle from Timor-Leste.  https://www.authorea.com/users/495954/articles/1222639
+id|eventDate|country|stateProvince|islandGroup|island|locality|decimalLatitude|decimalLongitude|coordinateUncertaintyInMeters|georeferenceRemarks|establishmentMeans|associatedReferences
+47|1909|Samoa|Upolu||||-13.9166666667|-171.75|1000||introduced|Catley, A. 1969. The coconut rhinoceros beetle, Oryctes rhinoceross (L). International Journal of Pest Management: Part A  15(1) p. 18-30.
+38|1912|Samoa|Savaii||||-13.5833333333|-172.4167|1000||introduced|Catley, A. 1969. The coconut rhinoceros beetle, Oryctes rhinoceross (L). International Journal of Pest Management: Part A  15(1) p. 18-30.
+46|1912|American Samoa|Tutuila||||-14.295|-172.7|1000||introduced|Catley, A. 1969. The coconut rhinoceros beetle, Oryctes rhinoceross (L). International Journal of Pest Management: Part A  15(1) p. 18-30.
+69|1918|Diego Garcia|||||-7.319501|72.422856|1000||introduced|Catley, A. 1969. The coconut rhinoceros beetle, Oryctes rhinoceross (L). International Journal of Pest Management: Part A  15(1) p. 18-30.
+15|1921|Japan|Ishigaki-shima||||24.4151|124.181|1000||introduced|
+29|1921|Tonga|Niuatoputapu||||-15.954282|-173.777751|1000||introduced|Catley, A. 1969. The coconut rhinoceros beetle, Oryctes rhinoceross (L). International Journal of Pest Management: Part A  15(1) p. 18-30.
+63|1931|Wallis Island|||||-13.266667|-176.2|1000||introduced|Catley, A. 1969. The coconut rhinoceros beetle, Oryctes rhinoceross (L). International Journal of Pest Management: Part A  15(1) p. 18-30.
+70|1940|Cocos Islands|||||-12.170874|96.841739|1000||introduced|Catley, A. 1969. The coconut rhinoceros beetle, Oryctes rhinoceross (L). International Journal of Pest Management: Part A  15(1) p. 18-30.
+64|1942|Palau|||||7.51498|134.58252|1000||introduced|Catley, A. 1969. The coconut rhinoceros beetle, Oryctes rhinoceross (L). International Journal of Pest Management: Part A  15(1) p. 18-30.
+65|1942|New Britain|||||-5.74659|150.767921|1000||introduced|Catley, A. 1969. The coconut rhinoceros beetle, Oryctes rhinoceross (L). International Journal of Pest Management: Part A  15(1) p. 18-30.
+66|1942|West Papua|Catley||||-1.336115|133.174716|1000||introduced|
+49|1952|Tonga|Vavau||||-18.6227565833|-173.990298|1000||introduced|Catley, A. 1969. The coconut rhinoceros beetle, Oryctes rhinoceross (L). International Journal of Pest Management: Part A  15(1) p. 18-30.
+50|1952|Fiji|Viiti Levu||||-17.848319|178.011847|1000||introduced|Catley, A. 1969. The coconut rhinoceros beetle, Oryctes rhinoceross (L). International Journal of Pest Management: Part A  15(1) p. 18-30.
+67|1952|New Ireland|||||-3.33|152|1000||introduced|Catley, A. 1969. The coconut rhinoceros beetle, Oryctes rhinoceross (L). International Journal of Pest Management: Part A  
+25|1957|Japan|Minamidaito||||25.8446|131.2439|1000||introduced|
+19|1960|Japan|Kitadaito||||25.9445|131.3068|1000||introduced|
+34|1960|New Guinea|Pak Island||||-2.080667|147.635405|1000||introduced|Catley, A. 1969. The coconut rhinoceros beetle, Oryctes rhinoceross (L). International Journal of Pest Management: Part A  15(1) p. 18-30.
+44|1961|Tonga|Tongatapu||||-21.146597|-175.251548|1000||introduced|Catley, A. 1969. The coconut rhinoceros beetle, Oryctes rhinoceross (L). International Journal of Pest Management: Part A  15(1) p. 18-30.
+71|1962|Maritius|||||-20.348404|57.552152|1000||introduced|Catley, A. 1969. The coconut rhinoceros beetle, Oryctes rhinoceross (L). International Journal of Pest Management: Part A  15(1) p. 18-30.
+68|1963|Tokelau Islands|||||-9.2002|-171.8484|1000||introduced|Catley, A. 1969. The coconut rhinoceros beetle, Oryctes rhinoceross (L). International Journal of Pest Management: Part A  15(1) p. 18-30.
+14|1967|Japan|Iriomote-jima||||24.339|123.8216|1000||introduced|
+52|1972|Japan|Yonaguni-shima||||24.4534|122.9867|1000||introduced|
+31|1975|Japan|Okinawa||||26.5014|127.9455|1000||introduced|
+72|1978|Reunion|||||-21.115141|55.536384|1000||introduced|
+74|1978|Mayotte|||||-12.8275|45.166244|1000||introduced|
+26|1983|Japan|Miyako-jima||||24.771|125.3184|1000||introduced|
+32|1987|Japan|Okino-erabu-shima||||27.3769|128.5855|1000||introduced|
+53|1988|Japan|Yuron-jima||||27.0442|128.4313|1000||introduced|
+1|1991|Japan|Amami||||28.3261|129.4276|1000||introduced|
+43|1991|Japan|Tokuno-shima||||27.7675|128.9505|1000||introduced|
+10|2007|Guam|Guam||||13.450551|144.771876|1000||introduced|
+30|2013|Hawaii|Oahu||||21.316346|-157.929047|1000||introduced|
+9|2015|Solomon Islands|Guadalcanal||||-9.4333333333|159.95|1000||introduced|
+35|2015|Papua New Guinea|Port Moresby||||-9.4438004|147.1802671|1000||introduced|
+23|2017|Solomon Islands|Malaita Island||||-9.0113|160.9868|1000||introduced|
+37|2017|CNMI|Rota||||14.132547|145.131068|1000||introduced|
+39|2017|Solomon Islands|Savo Island||||-9.1328|159.8147|1000||introduced|
+7|2019|Vanuatu|Efate||||-17.6368|168.2062|1000||introduced|
+77|2019|New Caledonia|||||-22.0144|166.2189|1000||introduced|
+79|2023-05-01|USA|Hawaii|Hawaiian Islands|Kauai Island||21.8761|-159.3389|1000||introduced|
+78|2023-09-01|Republic of the Marshall Islands|Majuro||||7.0558|171.2444|1000||introduced|
+80|2023-10-11|USA|Hawaii|Hawaiian Islands|Hawaii Island||19.9414|-155.7927|1000||introduced|
+81|2023-11-01|USA|Hawaii|Hawaiian Islands|Maui Island|Kihei|20.756004|156.452977|5000||introduced|
+82|2024-01-07|Timor-Leste||Lesser Sunda Islands|Timor Island|Dili|-8.560657|125.5565|5000|Centroid of Dili|introduced|Paudel, S. et al. 2024. Confirmation of coconut rhinoceros beetle from Timor-Leste. https://www.authorea.com/users/495954/articles/1222639
+2||Indonesia|Ambon Island||||-3.62|128.1|1000||native|Catley, A. 1969. The coconut rhinoceros beetle, Oryctes rhinoceross (L). International Journal of Pest Management: Part A  15(1) p. 18-30.
+3||India|Andhra Pradesh||||15.9129|79.739987|1000||native|Pallipparambil, G. 2015. New Pest Response Guidelines: Oryctes rhinoceros (L.) Coleoptera: Scarabaeidae. United States Department of Agriculture - Animal and Plant Health Inspection Service - Plant Protection and Quarantine. p. 180. https://tinyurl.com/mpdmvfpt
+4||India|Arunachal Pradesh||||28.217999|94.727753|1000||native|Pallipparambil, G. 2015. New Pest Response Guidelines: Oryctes rhinoceros (L.) Coleoptera: Scarabaeidae. United States Department of Agriculture - Animal and Plant Health Inspection Service - Plant Protection and Quarantine. p. 180. https://tinyurl.com/mpdmvfpt
+5||India|Assam||||26.200604|92.937574|1000||native|Pallipparambil, G. 2015. New Pest Response Guidelines: Oryctes rhinoceros (L.) Coleoptera: Scarabaeidae. United States Department of Agriculture - Animal and Plant Health Inspection Service - Plant Protection and Quarantine. p. 180. https://tinyurl.com/mpdmvfpt
+6||India|Bihar||||25.096074|85.313119|1000||native|Pallipparambil, G. 2015. New Pest Response Guidelines: Oryctes rhinoceros (L.) Coleoptera: Scarabaeidae. United States Department of Agriculture - Animal and Plant Health Inspection Service - Plant Protection and Quarantine. p. 180. https://tinyurl.com/mpdmvfpt
+8||India|Goa||||15.299326|74.123996|1000||native|Pallipparambil, G. 2015. New Pest Response Guidelines: Oryctes rhinoceros (L.) Coleoptera: Scarabaeidae. United States Department of Agriculture - Animal and Plant Health Inspection Service - Plant Protection and Quarantine. p. 180. https://tinyurl.com/mpdmvfpt
+11||India|Gujarat||||22.258652|71.19238|1000||native|Pallipparambil, G. 2015. New Pest Response Guidelines: Oryctes rhinoceros (L.) Coleoptera: Scarabaeidae. United States Department of Agriculture - Animal and Plant Health Inspection Service - Plant Protection and Quarantine. p. 180. https://tinyurl.com/mpdmvfpt
+12||China|Hainan||||19.1974353862|109.7400477837|1000||native|Catley, A. 1969. The coconut rhinoceros beetle, Oryctes rhinoceross (L). International Journal of Pest Management: Part A  15(1) p. p. 18-30.
+13||India|Himachal Pradesh||||31.104829|77.17339|1000||native|Pallipparambil, G. 2015. New Pest Response Guidelines: Oryctes rhinoceros (L.) Coleoptera: Scarabaeidae. United States Department of Agriculture - Animal and Plant Health Inspection Service - Plant Protection and Quarantine. p. 180. https://tinyurl.com/mpdmvfpt
+16||India|Jharkhand||||23.610181|85.279935|1000||native|Pallipparambil, G. 2015. New Pest Response Guidelines: Oryctes rhinoceros (L.) Coleoptera: Scarabaeidae. United States Department of Agriculture - Animal and Plant Health Inspection Service - Plant Protection and Quarantine. p. 180. https://tinyurl.com/mpdmvfpt
+17||India|Karnataka||||15.317277|75.713888|1000||native|Pallipparambil, G. 2015. New Pest Response Guidelines: Oryctes rhinoceros (L.) Coleoptera: Scarabaeidae. United States Department of Agriculture - Animal and Plant Health Inspection Service - Plant Protection and Quarantine. p. 180. https://tinyurl.com/mpdmvfpt
+18||India|Kerala||||10.850516|76.271083|1000||native|Pallipparambil, G. 2015. New Pest Response Guidelines: Oryctes rhinoceros (L.) Coleoptera: Scarabaeidae. United States Department of Agriculture - Animal and Plant Health Inspection Service - Plant Protection and Quarantine. p. 180. https://tinyurl.com/mpdmvfpt
+20||India|Madhya Pradesh||||22.973423|78.656894|1000||native|Pallipparambil, G. 2015. New Pest Response Guidelines: Oryctes rhinoceros (L.) Coleoptera: Scarabaeidae. United States Department of Agriculture - Animal and Plant Health Inspection Service - Plant Protection and Quarantine. p. 180. https://tinyurl.com/mpdmvfpt
+21||India|Madhya Pradesh||||22.973423|78.656894|1000||native|Pallipparambil, G. 2015. New Pest Response Guidelines: Oryctes rhinoceros (L.) Coleoptera: Scarabaeidae. United States Department of Agriculture - Animal and Plant Health Inspection Service - Plant Protection and Quarantine. p. 180. https://tinyurl.com/mpdmvfpt
+22||India|Maharashtra||||19.75148|75.713888|1000||native|Pallipparambil, G. 2015. New Pest Response Guidelines: Oryctes rhinoceros (L.) Coleoptera: Scarabaeidae. United States Department of Agriculture - Animal and Plant Health Inspection Service - Plant Protection and Quarantine. p. 180. https://tinyurl.com/mpdmvfpt
+24||India|Manipur||||24.663717|93.906269|1000||native|Pallipparambil, G. 2015. New Pest Response Guidelines: Oryctes rhinoceros (L.) Coleoptera: Scarabaeidae. United States Department of Agriculture - Animal and Plant Health Inspection Service - Plant Protection and Quarantine. p. 180. https://tinyurl.com/mpdmvfpt
+27||India|Nagaland||||26.158435|94.562443|1000||native|Pallipparambil, G. 2015. New Pest Response Guidelines: Oryctes rhinoceros (L.) Coleoptera: Scarabaeidae. United States Department of Agriculture - Animal and Plant Health Inspection Service - Plant Protection and Quarantine. p. 180. https://tinyurl.com/mpdmvfpt
+28||Philippines|Negros Island||||9.3040830433|123.2707214355|1000||native|
+33||India|Orissa||||20.951666|85.098524|1000||native|Pallipparambil, G. 2015. New Pest Response Guidelines: Oryctes rhinoceros (L.) Coleoptera: Scarabaeidae. United States Department of Agriculture - Animal and Plant Health Inspection Service - Plant Protection and Quarantine. p. 180. https://tinyurl.com/mpdmvfpt
+36||India|Rajasthan||||27.023804|74.217933|1000||native|Pallipparambil, G. 2015. New Pest Response Guidelines: Oryctes rhinoceros (L.) Coleoptera: Scarabaeidae. United States Department of Agriculture - Animal and Plant Health Inspection Service - Plant Protection and Quarantine. p. 180. https://tinyurl.com/mpdmvfpt
+40||Indonesia|Seram||||-3.098|129.112|1000||native|Catley, A. 1969. The coconut rhinoceros beetle, Oryctes rhinoceross (L). International Journal of Pest Management: Part A  15(1) p. 18-30.
+41||Indonesia|Sulawesi||||-3.661945786|120.177835264|1000||native|Catley, A. 1969. The coconut rhinoceros beetle, Oryctes rhinoceross (L). International Journal of Pest Management: Part A  15(1) p. 18-30.
+42||India|Tamil Nadu||||11.127123|78.656894|1000||native|Pallipparambil, G. 2015. New Pest Response Guidelines: Oryctes rhinoceros (L.) Coleoptera: Scarabaeidae. United States Department of Agriculture - Animal and Plant Health Inspection Service - Plant Protection and Quarantine. p. 180. https://tinyurl.com/mpdmvfpt
+45||India|Tripura||||23.940848|91.988153|1000||native|Pallipparambil, G. 2015. New Pest Response Guidelines: Oryctes rhinoceros (L.) Coleoptera: Scarabaeidae. United States Department of Agriculture - Animal and Plant Health Inspection Service - Plant Protection and Quarantine. p. 180. https://tinyurl.com/mpdmvfpt
+48||India|Uttar Pradesh||||27.570589|80.098187|1000||native|Pallipparambil, G. 2015. New Pest Response Guidelines: Oryctes rhinoceros (L.) Coleoptera: Scarabaeidae. United States Department of Agriculture - Animal and Plant Health Inspection Service - Plant Protection and Quarantine. p. 180. https://tinyurl.com/mpdmvfpt
+51||India|West Bengal||||22.986757|87.854975|1000||native|Pallipparambil, G. 2015. New Pest Response Guidelines: Oryctes rhinoceros (L.) Coleoptera: Scarabaeidae. United States Department of Agriculture - Animal and Plant Health Inspection Service - Plant Protection and Quarantine. p. 180. https://tinyurl.com/mpdmvfpt
+54||Bangladesh|||||23.8456776713|90.2419998721|1000||native|Catley, A. 1969. The coconut rhinoceros beetle, Oryctes rhinoceross (L). International Journal of Pest Management: Part A  15(1) p. 18-30.
+55||Thailand|||||15.1143997393|101.0033333514|1000||native|Catley, A. 1969. The coconut rhinoceros beetle, Oryctes rhinoceross (L). International Journal of Pest Management: Part A  15(1) p. 18-30.
+56||Sri Lanka|||||7.6159146067|80.7031628582|1000||native|Catley, A. 1969. The coconut rhinoceros beetle, Oryctes rhinoceross (L). International Journal of Pest Management: Part A  15(1) p. 18-30.
+57||Taiwan|||||23.7529851134|120.9498753298|1000||native|Catley, A. 1969. The coconut rhinoceros beetle, Oryctes rhinoceross (L). International Journal of Pest Management: Part A  15(1) p. 18-30.
+58||Malaysia|||||3.7923927886|109.6988686366|1000||native|Catley, A. 1969. The coconut rhinoceros beetle, Oryctes rhinoceross (L). International Journal of Pest Management: Part A  15(1) p. 18-30.
+59||Philippines|||||11.7630150663|122.8744842572|1000||native|Catley, A. 1969. The coconut rhinoceros beetle, Oryctes rhinoceross (L). International Journal of Pest Management: Part A  15(1) p. 18-30.
+60||Myanmar|||||21.1676699887|96.4892894763|1000||native|Catley, A. 1969. The coconut rhinoceros beetle, Oryctes rhinoceross (L). International Journal of Pest Management: Part A  15(1) p. 18-30.
+61||Pakistan|||||29.9484969425|69.341343274|1000||native|Catley, A. 1969. The coconut rhinoceros beetle, Oryctes rhinoceross (L). International Journal of Pest Management: Part A  15(1) p. 18-30.
+62||Hong Kong|||||22.3846368801|114.1314468562|1000||native|Catley, A. 1969. The coconut rhinoceros beetle, Oryctes rhinoceross (L). International Journal of Pest Management: Part A  15(1) p. 18-30.
+73||Laos|||||19.85627|102.495496|1000||native|
+75||Cambodia|||||12.565679|104.990963|1000||native|
+76||Vietnam|||||14.058324|108.277199|1000||native|
